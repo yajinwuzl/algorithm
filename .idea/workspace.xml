@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a4894ed-6d85-4f4f-813c-018fd7b6b545" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm_DataStructure/queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm_DataStructure/stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm_DataStructure/tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/Algorithm_DataStructure/二分查找算法.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
-              <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -33,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/Algorithm_DataStructure/link_list.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1333">
-              <caret line="221" column="19" lean-forward="true" selection-start-line="221" selection-start-column="19" selection-end-line="221" selection-end-column="19" />
+              <caret line="221" column="19" selection-start-line="221" selection-start-column="19" selection-end-line="221" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -42,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/Algorithm_DataStructure/stack.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="600">
-              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -51,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/Algorithm_DataStructure/queue.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
-              <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -59,8 +56,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Algorithm_DataStructure/tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="801">
-              <caret line="73" column="17" lean-forward="true" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
+            <state relative-caret-position="1121">
+              <caret line="73" column="17" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -223,12 +220,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573654912233</updated>
-      <workItem from="1573654913556" duration="17646000" />
+      <workItem from="1573654913556" duration="20324000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17646000" />
+    <option name="totallyTimeSpent" value="20324000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2560" y="-139" width="2560" height="1440" extended-state="0" />
@@ -245,7 +242,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32938564" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32938564" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39970392" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -264,35 +261,35 @@
     <entry file="file://$PROJECT_DIR$/Algorithm_DataStructure/二分查找算法.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
-          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm_DataStructure/stack.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
-          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm_DataStructure/queue.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
-          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm_DataStructure/link_list.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1333">
-          <caret line="221" column="19" lean-forward="true" selection-start-line="221" selection-start-column="19" selection-end-line="221" selection-end-column="19" />
+          <caret line="221" column="19" selection-start-line="221" selection-start-column="19" selection-end-line="221" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm_DataStructure/tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="801">
-          <caret line="73" column="17" lean-forward="true" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
+        <state relative-caret-position="1121">
+          <caret line="73" column="17" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
         </state>
       </provider>
     </entry>
